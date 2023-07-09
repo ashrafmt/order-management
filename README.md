@@ -1,4 +1,4 @@
-# order-management
+
 To build the application:
 
 Make sure you have Java and Maven installed on your computer.
